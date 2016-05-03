@@ -1,0 +1,3 @@
+#ruby 2.2.3
+# rails s -e production
+# rackup private_pub.ru -s thin -E production
